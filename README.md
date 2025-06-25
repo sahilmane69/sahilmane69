@@ -9,8 +9,9 @@
 📚 Still a student, but leveling up daily
 
 Let’s build, break, and fix together 💡
-🔗 LinkedIn: sahilmane74
-🐦 Twitter/X: @SahilMane_code
+🔗 [LinkedIn](https://www.linkedin.com/in/sahilmane74)  
+🐦 [Twitter / X](https://x.com/SahilMane_code)
+
 
 
 ## 🌐 Socials:
