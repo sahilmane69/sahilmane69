@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sahil Mane</h1>
 <h3 align="center">Self-taught Web Developer</h3>
 
-- 📫 How to reach me **mane50205@gmail.com**
+🚀 MERN Stack | JavaScript | CSS | GSAP  
+📆 On a 60-day web dev journey – building real stuff, not just watching tutorials  
+🎯 Focused on clean UI, real-world projects, and learning fast  
+📚 Still a student, but leveling up daily
+
+Let’s build, break, and fix together 💡  
+🔗 [LinkedIn](https://www.linkedin.com/in/sahilmane74)  
+🐦 [Twitter / X](https://x.com/SahilMane_code)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
