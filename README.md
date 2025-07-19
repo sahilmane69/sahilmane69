@@ -10,6 +10,9 @@ Let’s build, break, and fix together 💡
 🔗 [LinkedIn](https://www.linkedin.com/in/sahilmane74)  
 🐦 [Twitter / X](https://x.com/SahilMane_code)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sahilmane74?trk=profile-badge)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
