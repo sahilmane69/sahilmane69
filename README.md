@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://sahil-mane-web.netlify.app/">
-    <img src="generated-image (1).png" alt="Portfolio">
+    <img src="generated-image (2).png" alt="Portfolio">
   </a>
 </p>
 
