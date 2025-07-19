@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://sahil-mane-web.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Now-6f42c1?style=for-the-badge&logo=web" alt="Portfolio">
+    <img src="generated-image (1).png" alt="Portfolio">
   </a>
 </p>
 
