@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sahilmane69/sahilmane69/assets/your-image" alt="Banner" width="80%" />
+  <img src="generated-image (2).png" alt="Banner" width="80%" />
 </p>
 
 ---
