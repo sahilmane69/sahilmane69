@@ -23,20 +23,26 @@ I'm a passionate and self-taught **Full-Stack Developer** obsessed with building
 
 ### 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/sahilmane74" target="_blank">
-    <img src="https://img.shields.io/badge/Edit-on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sahil_mane_developer/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:sahilmane.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sahil-mane-web.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/sahilmane74" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/sahil_mane_developer/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:sahilmane.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://sahil-mane-web.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
 
 ---
 
@@ -74,48 +80,7 @@ I'm a passionate and self-taught **Full-Stack Developer** obsessed with building
 
 ---
 
-### 🌟 Featured Projects
 
-#### 🎯 Daily Project Challenge — 60 Days of Building
-
-| Day | Project        | Stack              | Live Demo |
-|-----|----------------|--------------------|-----------|
-| 💡 1 | Portfolio Revamp | React + GSAP        | [View Live](https://sahil-mane-web.netlify.app)  |
-| 🛍️ 2 | eCommerce UI   | React + Redux + API | Coming Soon |
-| 🎵 3 | Music Visualizer | Web Audio + Canvas | Coming Soon |
-<!-- Add GIFs or screenshots under each if needed -->
-
-> 💡 Want to see more projects? Visit my [Portfolio ↗](https://sahil-mane-web.netlify.app)
-
----
-
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilmane69&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmane69&layout=compact&theme=radical" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahilmane69&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophy Case
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilmane69&theme=radical&column=7" />
-</p>
-
----
-
-### 💡 Let's Collaborate & Build
-
-> **“Code is poetry — let’s build something unforgettable.”**
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 
 ---
 
