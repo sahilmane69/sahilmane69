@@ -6,12 +6,12 @@
 🎯 Focused on clean UI, real-world projects, and learning fast  
 📚 Still a student, but leveling up daily
 
-Let’s build, break, and fix together 💡  
-🔗 [LinkedIn](https://www.linkedin.com/in/sahilmane74)  
-🐦 [Twitter / X](https://x.com/SahilMane_code)
-## Connect with Me
+<p align="center">
+  <a href="https://sahil-mane-web.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=web" alt="Portfolio">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/sahilmane74?trk=profile-badge)
 
 
 
