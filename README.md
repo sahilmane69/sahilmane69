@@ -1,24 +1,36 @@
 <h1 align="center">Sahil Mane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=420&lines=Full+Stack+Developer;DevOps+Learner;Building+End-to-End+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=8AE9C1&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;DevOps+Focused;Build.+Ship.+Improve." />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>Engineering software with clarity, not noise.</sub>
 </p>
 
 ---
 
 ### About
 
-Full-Stack Developer focused on **clean architecture, backend fundamentals, and DevOps practices**.
-I build, deploy, and iterate.
+I’m a **Full-Stack Developer** leaning into **DevOps and backend fundamentals**.
+I enjoy understanding systems deeply — from UI to database to deployment.
+
+I value:
+
+* Simplicity over abstraction
+* Reliability over hype
+* Learning by building
 
 ---
 
 ### Stack
 
-**Frontend:** React, Next.js, JavaScript, TypeScript
-**Backend:** Node.js, Express, REST APIs
-**Databases:** MongoDB, **PostgreSQL**, SQL
-**DevOps:** Git, Docker, CI/CD basics, Linux
+**Frontend** — React, Next.js, JavaScript, TypeScript
+**Backend** — Node.js, Express, REST APIs
+**Databases** — MongoDB, PostgreSQL
+**DevOps** — Git, Docker, CI/CD basics, Linux
 
 ---
 
@@ -30,4 +42,8 @@ I build, deploy, and iterate.
   <a href="https://sahil-mane-web.netlify.app">Portfolio</a>
 </p>
 
-<p align="center"><sub>Learning deeply. Building daily.</sub></p>
+<br/>
+
+<p align="center">
+  <sub>Less words. Better systems.</sub>
+</p>
