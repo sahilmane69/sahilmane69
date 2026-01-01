@@ -6,10 +6,8 @@
 
 ### About
 
-Full-stack developer interested in end-to-end systems, clean code, and strong engineering fundamentals.
-
-
-
+I’m a full-stack developer who enjoys building complete applications and understanding systems end to end.
+I work across frontend and backend, focusing on clean code, practical solutions, and strong fundamentals.
 ---
 
 ### Skills
