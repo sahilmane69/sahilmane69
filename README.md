@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UI/UX+Lover+🎨;MERN+Stack+Builder+🚀;Let’s+Build+Something+Great!&center=true&width=500&height=45&color=FC6C85&vCenter=true&size=22" />
 </p>
 
-<p align="center">
-  <img src="generated-image (2).png" alt="Banner" width="80%" />
-</p>
+
 
 ---
 
