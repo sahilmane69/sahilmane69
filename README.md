@@ -28,6 +28,6 @@ Git, Docker, CI/CD basics, Linux
 
 ### Contact
 
-* Email: [sahilmane.dev@gmail.com](mailto:sahilmanecode@gmail.com)
-* LinkedIn: [https://linkedin.com/in/sahilmane74](https://linkedin.com/in/sahilmane74)
-* Portfolio: [https://sahil-mane-web.netlify.app](https://sahil-mane-web.netlify.app)
+* Email: [sahilmanecode@gmail.com](mailto:sahilmanecode@gmail.com)
+* LinkedIn: [linkedin.com/sahilmane74](https://linkedin.com/in/sahilmane74)
+* Portfolio: [sahil-mane-web.netlify.app](https://sahil-mane-web.netlify.app)
