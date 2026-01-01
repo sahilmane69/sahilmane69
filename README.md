@@ -1,14 +1,5 @@
 <h1 align="center">Sahil Mane</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=8AE9C1&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;DevOps+Focused;Build.+Ship.+Improve." />
-</p>
-
 <br/>
-
-<p align="center">
-  <sub>Engineering software with clarity, not noise.</sub>
-</p>
 
 ---
 
@@ -28,8 +19,11 @@ I value:
 ### Stack
 
 **Frontend** — React, Next.js, JavaScript, TypeScript
+<br>
 **Backend** — Node.js, Express, REST APIs
-**Databases** — MongoDB, PostgreSQL
+<br>
+**Databases** — MongoDB, PostgreSQL, SQL
+<br>
 **DevOps** — Git, Docker, CI/CD basics, Linux
 
 ---
@@ -44,6 +38,4 @@ I value:
 
 <br/>
 
-<p align="center">
-  <sub>Less words. Better systems.</sub>
-</p>
+
