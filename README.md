@@ -1,13 +1,14 @@
 
 <h1 align="center">Sahil Mane</h1>
+<p align="center">
+  Full-Stack Developer • DevOps
+</p>
 
 ### About
 
 Full-stack developer interested in end-to-end systems, clean code, and strong engineering fundamentals.
 
-<p align="center">
-  Full-Stack Developer • DevOps
-</p>
+
 
 ---
 
