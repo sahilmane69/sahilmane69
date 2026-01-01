@@ -1,10 +1,10 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDR0NXZ0cW9xem9uOWZ5dHRjOGJqZDRlODR3N3l3bHRlZG1wYmNwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif"
-    width="420"
-    alt="Pixel coding animation"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=00FF9C&center=true&vCenter=true&width=480&lines=%24+npm+run+build;%24+git+commit+-m+%22pixel+perfect%22;%24+deploy+--prod"
+    alt="Terminal typing animation"
   />
-</p><h1 align="center">Hey there 👋 — I'm Sahil Mane</h1>
+</p>
+<h1 align="center">Hey there 👋 — I'm Sahil Mane</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UI/UX+Lover+🎨;MERN+Stack+Builder+🚀;Let’s+Build+Something+Great!&center=true&width=500&height=45&color=FC6C85&vCenter=true&size=22" />
 </p>
