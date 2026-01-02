@@ -10,6 +10,7 @@
     width="420"
   />
 </p>
+
 ### About
 
 I’m a full-stack developer who enjoys building complete applications and understanding systems end to end.
@@ -18,22 +19,29 @@ I work across frontend and backend, focusing on clean code, practical solutions,
 
 ### Skills
 
-**Frontend**
+**Frontend**  
 React, Next.js, JavaScript, TypeScript, HTML, CSS
 
-**Backend**
-Node.js, Express, REST APIs, bun
+**Backend**  
+Node.js, Express, REST APIs, Bun
 
-**Databases**
+**Databases**  
 PostgreSQL, MongoDB, SQL
 
-**DevOps & Tools**
+**Languages & Fundamentals**  
+C, C++ (DSA), Swift (basic)
+
+**DevOps & Tools**  
 Git, Docker, CI/CD basics, Linux
+
+**Other**  
+Open Source Contribution, Problem Solving, System Thinking
 
 ---
 
 ### Contact
 
-* Email: [sahilmanecode@gmail.com](mailto:sahilmanecode@gmail.com)
-* LinkedIn: [linkedin.com/sahilmane74](https://linkedin.com/in/sahilmane74)
-* Portfolio: [sahil-mane-web.netlify.app](https://sahil-mane-web.netlify.app)
+- **Email:** sahilmanecode@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/sahilmane74  
+- **Portfolio:** https://sahil-mane-web.netlify.app  
+- **GitHub:** https://github.com/sahilmane69
