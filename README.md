@@ -3,7 +3,13 @@
 <p align="center">
   Full-Stack Developer • DevOps
 </p>
-
+<p align="center">
+  <img 
+    src="./pixel-dev.png" 
+    alt="Developer workspace pixel art" 
+    width="420"
+  />
+</p>
 ### About
 
 I’m a full-stack developer who enjoys building complete applications and understanding systems end to end.
