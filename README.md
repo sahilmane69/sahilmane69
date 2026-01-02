@@ -16,7 +16,7 @@ I work across frontend and backend, focusing on clean code, practical solutions,
 React, Next.js, JavaScript, TypeScript, HTML, CSS
 
 **Backend**
-Node.js, Express, REST APIs
+Node.js, Express, REST APIs, bun
 
 **Databases**
 PostgreSQL, MongoDB, SQL
