@@ -41,7 +41,26 @@ Open Source Contribution, Problem Solving, System Thinking
 
 ### Contact
 
-- **Email:** sahilmanecode@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/sahilmane74  
-- **Portfolio:** https://sahil-mane-web.netlify.app  
-- **GitHub:** https://github.com/sahilmane69
+<p align="left">
+  <a href="mailto:sahilmanecode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sahilmanecode@gmail.com-333333?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/sahilmane74">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Mane-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/sahilmane69">
+    <img src="https://img.shields.io/badge/GitHub-sahilmane69-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://sahil-mane-web.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-sahil--mane--web.netlify.app-24292F?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
