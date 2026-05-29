@@ -25,7 +25,7 @@ PostgreSQL, MongoDB, SQL
 C, C++ (DSA), Swift (basic)
 
 **DevOps & Tools**  
-Git, Docker, CI/CD basics, Linux
+Git, Docker, CI/CD basics, Linux, Kubernetes, AWS, Azure, Jenkins, Terraform
 
 **Other**  
 Open Source Contribution, Problem Solving, System Thinking
