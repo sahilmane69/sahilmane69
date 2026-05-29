@@ -3,13 +3,6 @@
 <p align="center">
   Full-Stack Developer • DevOps
 </p>
-<p align="center">
-  <img 
-    src="./pixel-dev.png" 
-    alt="Developer workspace pixel art" 
-    width="420"
-  />
-</p>
 
 ### About
 
