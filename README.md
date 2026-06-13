@@ -8,6 +8,11 @@
 
 I'm a Full-Stack Developer passionate about building modern web applications and solving real-world problems. Alongside web development, I'm actively exploring DevOps, Cloud, and AI Engineering to better understand how scalable systems are built and deployed. I enjoy learning in public, contributing to open source, connecting with developers, and continuously exploring new technologies while building projects that help me grow as an engineer.
 ---
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilmane69&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmane69&layout=compact" />
+</p>
+
 ### Skills
 
 | Category | Technologies |
