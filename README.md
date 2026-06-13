@@ -10,7 +10,7 @@ I'm a Full-Stack Developer passionate about building modern web applications and
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmane69&theme=github-dark" />
- <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,java,mongodb,postgres,docker,kubernetes,terraform,aws,git,github,vscode,linux,jenkins" />
+ <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,mongodb,postgres,docker,kubernetes,terraform,aws,git,github,vscode,linux,jenkins" />
 
 </p>
 
