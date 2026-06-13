@@ -3,6 +3,7 @@
 <p align="center">
   Full-Stack • DevOps • AI Engineering • Open Source • Learning in Public
 </p>
+
 ### About
 
 I'm a Full-Stack Developer passionate about building modern web applications and solving real-world problems. Alongside web development, I'm actively exploring DevOps, Cloud, and AI Engineering to better understand how scalable systems are built and deployed. I enjoy learning in public, contributing to open source, connecting with developers, and continuously exploring new technologies while building projects that help me grow as an engineer.
@@ -40,26 +41,4 @@ I'm a Full-Stack Developer passionate about building modern web applications and
   </a>
 </p>
 
-<p align="left">
-  <a href="mailto:sahilmanecode@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sahilmanecode@gmail.com-333333?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/sahilmane74">
-    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Mane-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/sahilmane69">
-    <img src="https://img.shields.io/badge/GitHub-sahilmane69-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://sahil-mane-web.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-sahil--mane--web.netlify.app-24292F?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</p>
