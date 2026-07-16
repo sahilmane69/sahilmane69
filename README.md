@@ -29,21 +29,32 @@ I'm a Full-Stack Developer passionate about building modern web applications and
 | **Open Source** | Open Source Contributions, GitHub Collaboration, Issue Resolution |
 
 ---
-
 ### Connect with Me
 
 <p align="center">
-  <a href="mailto:sahilmanecode@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="mailto:sahilmanecode@gmail.com" style="margin: 0 14px; text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" /><br>
+    <sub>Email</sub>
   </a>
-  <a href="https://linkedin.com/in/sahilmane74" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/sahilmane74" style="margin: 0 14px; text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" /><br>
+    <sub>LinkedIn</sub>
   </a>
-  <a href="https://github.com/sahilmane69" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/sahilmane69" style="margin: 0 14px; text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github" height="42" /><br>
+    <sub>GitHub</sub>
   </a>
-  <a href="https://sahil-mane-web.netlify.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://sahil-mane-web.netlify.app" style="margin: 0 14px; text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=vercel" height="42" /><br>
+    <sub>Portfolio</sub>
   </a>
 </p>
-
