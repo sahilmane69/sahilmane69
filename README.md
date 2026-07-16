@@ -30,21 +30,20 @@ I'm a Full-Stack Developer passionate about building modern web applications and
 
 ---
 
-### Contact
+### Connect with Me
 
 <p align="center">
   <a href="mailto:sahilmanecode@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://linkedin.com/in/sahilmane74">
-    <img src="https://img.shields.io/badge/LinkedIn-Sahil_Mane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/sahilmane74" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://github.com/sahilmane69">
-    <img src="https://img.shields.io/badge/GitHub-sahilmane69-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/sahilmane69" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://sahil-mane-web.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-24292F?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://sahil-mane-web.netlify.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
   </a>
 </p>
-
 
