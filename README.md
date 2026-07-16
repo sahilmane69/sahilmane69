@@ -44,7 +44,7 @@ I'm a Full-Stack Developer passionate about building modern web applications and
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sahil-mane-web.netlify.app">
+  <a href="https://iamsahilmane.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" width="45" />
   </a>
 </p>
