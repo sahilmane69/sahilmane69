@@ -5,9 +5,10 @@
 </p>
 
 ### About
-**
-I'm a Full-Stack Developer passionate about building modern web applications and solving real-world problems. Alongside web development, I'm actively exploring DevOps, Cloud, and AI Engineering to better understand how scalable systems are built and deployed. I enjoy learning in public, contributing to open source, connecting with developers, and continuously exploring new technologies while building projects that help me grow as an engineer.
-**
+
+**I'm a Full-Stack Developer passionate about building modern web applications and solving real-world problems. Alongside web development, I'm actively exploring DevOps, Cloud, and AI Engineering to better understand how scalable systems are built and deployed. I enjoy learning in public, contributing to open source, connecting with developers, and continuously exploring new technologies while building projects that help me grow as an engineer.**
+
+
 ---
 
 <p align="center">
