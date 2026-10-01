@@ -9,8 +9,7 @@
 I'm a Full-Stack Developer passionate about building modern web applications and solving real-world problems. Alongside web development, I'm actively exploring DevOps, Cloud, and AI Engineering to better understand how scalable systems are built and deployed. I enjoy learning in public, contributing to open source, connecting with developers, and continuously exploring new technologies while building projects that help me grow as an engineer.
 ---
 <p align="center">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmane69&theme=github-compact&hide_border=true" alt="Sahil Mane's GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmane69&theme=github-compact&hide_border=true" alt="Sahil Mane's GitHub Activity Graph" />
 </p>
   <br>
  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,mongodb,postgres,docker,kubernetes,terraform,aws,git,github,vscode,linux,jenkins" />
